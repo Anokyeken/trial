@@ -1,0 +1,196 @@
+Matrikelnummer: 57
+Frage: (SA) 1) Das Projektbudget für ein 10-Monate-Projekt beträgt 1.000.000€ (PK, geplante Kosten). Es war geplant, dass jeden Monat jeweils genau 10% der Arbeiten abgeschlossen werden. Nach fünf Monaten repräsentieren die abgeschlossenen Arbeit 40% des Gesamtumfangs aller Arbeiten. Wie hoch ist der Fertigstellungswert zu diesem Zeitpunkt? [1]
+Korrekte Anwort:400000€
+Ihre Antwort:400000
+Punkte: 1/1
+Frage: (SA) 2) Das Projektbudget für ein 12-Monate-Projekt beträgt 1.200.000€ (PK, geplante Kosten). Die Kosten verteilen sich gleichmäßig über den gesamten Zeitraum. Nach sechs Monaten repräsentieren die abgeschlossenen Arbeit 60% des Gesamtumfangs aller Arbeiten. Die bis dahin angefallenen Kosten betragen 400.000€. Berechnen Sie den Kostenleistungsindex (KLI/CPI). [2]
+Korrekte Anwort:1,8
+Ihre Antwort:1200000 / 400000 = 30
+Punkte: 0/2
+Frage: (SA) 3) Die PMO-Datenbank weist für eine bestimmte Aktivität folgende Kostenschätzungen aus: optimistisch: 100€, wahrscheinlich: 250€, pessimistisch: 400€. Welchen Kostenansatz liefert die parametrische Schätzung nach der Beta-Verteilung. [2]
+Korrekte Anwort:250€
+Ihre Antwort:(100 + 250 * 4 + 400) / 6) = 1500 / 6 = 250 €
+Punkte: 2/2
+Frage: (PM) 4) Welche Aussagen zum Kritischen Pfad sind nicht richtig?[2]
+Korrekte Anwort:Der Kritische Pfad zeigt die Dauer an, die das Projekt höchstens haben wird.;Der freie Puffer einer einzelnen Aktivität auf dem Kritischen Pfad kann größer als null sein.
+Ihre Antwort:Der Kritische Pfad zeigt die Dauer an, die das Projekt mindestens haben wird.
+Punkte: 0/2
+Frage: (SA) 5) Zwischen zwei Projektphasen wird der Fortschritt des Projekts bewertet und es wird entschieden, ob das Projekt fortgesetzt oder abgebrochen werden soll. Wie wird dieser Punkt zwischen zwei Phasen üblicherweise benannt? Max. zwei Wörter! [1]
+Korrekte Anwort:Phase gate/Stage gate/Kill point/Phasenüberprüfung
+Ihre Antwort:Phase Gate
+Punkte: 1/1
+Frage: (SA) 6) Wie wird ein Lebenszyklus genannt, bei dem einem Produkt in jedem Zyklus neue Funktionlitäten hinzugefügt werden? Max. zwei Wörter! [1]
+Korrekte Anwort:Inkrementell/Inkrementeller
+Ihre Antwort:inkrementierender Lebenszyklus
+Punkte: 0/1
+Frage: (PO) 7) Wie wird ein organisatorischer Kontext genannt, in dem die Autorität des Projektmanagers sehr hoch ist und diese Person auch das Projektbudget managt? [1]
+Korrekte Anwort:keine der hier angegebenen Eigenschaften
+Ihre Antwort:produkt-orientiert
+Punkte: 0/1
+Frage: (PO) 8) Kapitalrendite und Marktanteile sind … [1]
+Korrekte Anwort:Schlüsselergebnisindikatoren
+Ihre Antwort:Schlüsselergebnisindikatoren
+Punkte: 1/1
+Frage: (SA) 9) Wie wird eine Methode zum Sammeln von Informationen genannt, die in einem Bild Ideen konsolidiert, die in den einzelne Brainstorming-Sitzungen erstellt wurden? Das Bild spiegelt Gemeinsames und Trennendes im Verständnis der neuen Ideen wider. Max drei Wörter! [2]
+Korrekte Anwort:Mind mapping/Mindmapping
+Ihre Antwort:Mind-Mapping
+Punkte: 2/2
+Frage: (SA) 10) Was ist ein Projekt (Definition)? [4]
+Korrekte Anwort:Zeitlich begrenztes Vorhaben mit dem Ziel, ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis zu schaffen
+Ihre Antwort:Ein Projekt ist ein zeitlich begrenztes Vorhaben, welche Veränderungen als Ziel hat, durch welche man sich einen Vorteil verspricht
+Bewertete Antwort: Ein Projekt ist ein zeitlich begrenztes Vorhaben  welche Veränderungen als Ziel hat  durch welche man sich einen Vorteil verspricht
+Punkte: 1,818/4
+Frage: (SA) 11) Was ist ein Risiko (kurze Definition)? [4]
+Korrekte Anwort:Ein unbestimmtes Ereignis oder eine Bedingung, die eine positive oder negative Auswirkung auf ein oder mehrere Projektziele hat.
+Ihre Antwort:Risiko ist ein unbekanntes Ereignis welches positive oder negative Auswirkungen, also Chancen oder Bedrohungen, auf die Projektziele wie Qualität, Kosten, Umfang, Zeitplan haben kann
+Bewertete Antwort: Risiko ist ein unbekanntes Ereignis welches positive oder negative Auswirkungen  also Chancen oder Bedrohungen  auf die Projektziele wie Qualität  Kosten  Umfang  Zeitplan haben kann
+Punkte: 3/4
+Frage: (PO) 12) Der Grad der Unsicherheit, den ein Unternehmen in Erwartung einer Belohnung zu übernehmen bereit ist, ist normalerweise bekannt als? [1]
+Korrekte Anwort:Risikoappetit
+Ihre Antwort:Risikoappetit
+Punkte: 1/1
+Frage: (PO) 13) Eigenschaften und Funktionen, die ein Produkt oder eine Dienstleistung kennzeichnen, definieren welchen Umfang und Inhalt? [1]
+Korrekte Anwort:Inhalt und Umfang des Produkts
+Ihre Antwort:Inhalt und Umfang des Produkts
+Punkte: 1/1
+Frage: (SA) 14) Was ist eine Anforderung? Geben Sie eine kurze Definition. Max. ein Satz! [4]
+Korrekte Anwort:Bedingung oder Fähigkeit, die ein Produkt, eine Dienstleistung oder ein Ergebnis erfüllen muss, um einen bestimmten Bedarf zu befriedigen. 
+Ihre Antwort:Eine Anforderung ist eine Grundlage, die das Projekt erfüllen muss, damit es begonnen werden kann
+Bewertete Antwort: Eine Anforderung ist eine Grundlage  die das Projekt erfüllen muss  damit es begonnen werden kann
+Punkte: 1,333/4
+Frage: (PM) 15) Was zeigt die im Bild dargestellte Tabelle? [2]
+Korrekte Anwort:Anforderungen in Beziehung zu Liefergegenständen;Anfoderungen in Beziehung zu Bedürfnissen der Stakeholder
+Ihre Antwort:Anforderungen in Beziehung zu Arbeitspaketen; Anfoderungen in Beziehung zu Bedürfnissen der Stakeholder
+Punkte: 0/2
+Frage: (SA) 16) Welche Art von Planung wird hier beschrieben: Man beginnt mit einer allgemeinen Vision für das Gesamtprojekt, die in nachfolgenden Iterationen immer genauer beschrieben wird. In naher Zukunft liegende Vorgänge sind detailliert spezifiziert, in weiterer Zukunft liegende Vorgänge sind abstrakter dargestellt. Max. drei Wörter! [2]
+Korrekte Anwort:Rollierende Planung/Rolling Wave
+Ihre Antwort:iterative Planung
+Punkte: 0/2
+Frage: (SA) 17) Wie wird die übertriebene Ausgestaltung von Funktionen oder aber auch das Hinzufügen von Funktionen durch die Entwickler genannt, die nie angefordert wurden, und irrtümlicherweise der Absicht dienen, einen Mehrwert für die Kunden zu liefern, oftmals aber nur dazu dienen sollen, die Kunden zu beeindrucken? [2]
+Korrekte Anwort:Vergoldung/Gold plating
+Ihre Antwort:Vergoldung (Gold-Plating)
+Punkte: 2/2
+Frage: (PM) 18) Was beinhaltet die Projektumfangs- und -inhaltsspezifizierung? [2]
+Korrekte Anwort:Information, was das Projekt nicht einschließt.;Richtlinien für die Entscheidungsfindung bei Änderungsanforderungen.
+Ihre Antwort:Richtlinien für die Entscheidungsfindung bei Änderungsanforderungen.; Detaillierte Darstellung der Arbeitspakete
+Punkte: 0/2
+Frage: (PM) 19) Was ist ein Kontrollkonto? [2]
+Korrekte Anwort:Zusammenfassung von Planungspaketen;Management-Kontrollpunkt
+Ihre Antwort:Zusammenfassung von Planungspaketen; Management-Kontrollpunkt
+Punkte: 2/2
+Frage: (PM) 20) Was ist korrekt in Bezug auf Validierung? [2]
+Korrekte Anwort:Validierte Leistungen liefern, was von den Kunden oder Stakeholdern erwartet wird.
+Ihre Antwort:Validierte Leistungen liefern, was von den Kunden oder Stakeholdern erwartet wird.; Validierte Leistungen sind Liefergegenstände, die das bereitstellen, was in der Projektumfangs- und -inhaltspezifizierung beschrieben ist.
+Punkte: 0/2
+Frage: (SA) 21) Wie wird eine Technik genannt zur Erstellung eines Zeitplanmodells, bei dem Vorgänge durch Knoten und deren logische Anordnungsbeziehungen durch einen oder mehrere Pfeile dargestellt werden, um die Reihenfolge anzuzeigen, in der die Vorgänge durchgeführt werden müssen? [3]
+Korrekte Anwort:Vorgangsknoten-Netzplan/precedence diagramming/PDM
+Ihre Antwort:Vorgangs-Knoten-Plan
+Punkte: 0/3
+Frage: (PO) 22) In einem Netzplan gibt es unterschiedliche Abhängigkeiten zwischen zwei Vorgängen. Welche Abhängigkeit wird auch weiche Logik genannt? [1]
+Korrekte Anwort:Bevorzugte Abhängigkeit
+Ihre Antwort:Bevorzugte Abhängigkeit
+Punkte: 1/1
+Frage: (SA) 23) Wie wird die Gesamtzeit genannt, die ein einzelner Vorgang verzögert werden kann, ohne den frühest möglichen Start eines Nachfolgervorgangs zu verzögern? Max. zwei Wörter! [2]
+Korrekte Anwort:Freier Puffer
+Ihre Antwort:Freier Puffer
+Punkte: 2/2
+Frage: (PO) 24) Welche Art der Terminplanverdichtung ist hier dargestellt? [1]
+Korrekte Anwort:Auslastungsglättung
+Ihre Antwort:Beschleunigung
+Punkte: 0/1
+Frage: (PM) 25) Es wird ein SPI-Wert geringer als 1,0 festgestellt. Was bedeutet das? [2]
+Korrekte Anwort:Es wurden weniger Arbeiten fertiggestellt wurden, als im Terminbasisplan angegeben.;Die Terminplanabweichung ist negativ.
+Ihre Antwort:Es wurden weniger Arbeiten fertiggestellt wurden, als im Terminbasisplan angegeben.; Die Terminplanabweichung ist negativ.
+Punkte: 2/2
+Frage: (PM) 26) Der TCPI-Wert ist größer als 1,0. Was bedeutet das? [2]
+Korrekte Anwort:Das Projekt wird mit hoher Wahrscheinlichkeit nicht innerhalb des genehmigten Budgets bleiben.;Sehr wahrscheinlich kann BAC nicht mehr gehalten werden.
+Ihre Antwort:Das Projekt muss seine Leistung steigern, um das gewünschte Qualitätsniveau zu erreichen.
+Punkte: 0/2
+Frage: (SA) 27) Im Zusammenhang mit der Risikoanalyse hilft die Sensitivitätsanalyse was zu bestimmen? Max. ein Satz! [4]
+Korrekte Anwort:Welche Projektrisiken die größten potenziellen Auswirkungen auf die Projektergebnisse haben.
+Ihre Antwort:Ist eine Methode zur Vorbeugung von Risiken beziehungsweise Bedrohungen
+Punkte: 0/4
+Frage: (PM) 28) Für den Umgang mit Bedrohungen gibt es verschiedene Strategien, die üblicherweise in Betracht gezogen werden können. Welche der folgenden Strategien sind keine geeigneten Strategien? [2]
+Korrekte Anwort:Glättung;Delegieren
+Ihre Antwort:Glättung; Delegieren
+Punkte: 2/2
+Frage: (SA) 29) Für was steht PSP? Max. zwei Wörter? [3]
+Korrekte Anwort:Projektstrukturplan
+Ihre Antwort:Projektstrukturplan
+Punkte: 3/3
+Frage: (PO) 30) Wie wird das Nummerierungssystem für die eindeutige Kennzeichnung der Komponenten des Projektstrukturplans genannt? [1]
+Korrekte Anwort:Projektstrukturcode
+Ihre Antwort:Arbeitspaketcode
+Punkte: 0/1
+Frage: (SA) 31) Erklären Sie in wenigen Worten, was ein Änderungsauftrag (change request) ist. Max. zehn Wörter! [5]
+Korrekte Anwort:Formaler Vorschlag zur Änderung eines Liefergegenstands oder Basisplans. 
+Ihre Antwort:Ein Auftrag welcher als Ziel hat, eine Änderung am aktuellen Projekt vorzunehmen
+Bewertete Antwort: Ein Auftrag welcher als Ziel hat  eine Änderung am aktuellen Projekt vorzunehmen
+Punkte: 1/5
+Frage: (SA) 32) Welche Analysemethode wird verwendet wird, um verschiedene Projektionen für Ergebnisse zu liefern? Max. zwei Wörter! [2]
+Korrekte Anwort:Alternativenanalyse
+Ihre Antwort:Alternativen Analyse
+Punkte: 2/2
+Frage: (SA) 33) Welche Analysemethode wird verwendet, um die zukünftigen Entwicklungen basierend auf gegenwärtigen und früheren Ergebnissen vorherzusagen? Max. zwei Wörter! [2]
+Korrekte Anwort:Trendanalyse
+Ihre Antwort:analoge Analyse
+Punkte: 0/2
+Frage: (SA) 34) Design Thinking ist ein iterativer Ansatz, um zu einer Entscheidung zu kommen. Es werden bewusst Menschen mit unterschiedlichen Perspektiven, Wissen, Fähigkeiten und Erfahrungen gesucht, die sich mit einem realen Problem beschäftigen, um eine praktische Lösung dafür zu finden. Nennen Sie die fünf iterativen Phasen des Design Thinking in der richtigen Reihenfolge. [5]
+Korrekte Anwort:Beobachten verstehen/empathize - Sichtweise definieren/define - Ideen finden/Ideate - Prototyp entwickeln/prototype - Test
+Ihre Antwort:Beobachten und Verstehen, Sichtfeld definieren, Ideen sammeln, Prototyp entwickeln, Testen
+Bewertete Antwort: Beobachten und Verstehen  Sichtfeld definieren  Ideen sammeln  Prototyp entwickeln  Testen
+Punkte: 3/5
+Frage: (SA) 35) Projektmanager sind die von der ausführenden Organisation zur Führung des Teams ernannten Personen, die für die Erreichung der Projektziele verantwortlich sind. Nennen Sie die drei hauptsächlichen Kompetenzbereiche der Projektmanager. Max. acht Wörter! [3]
+Korrekte Anwort:Technisches Projektmanagement, Führung, Strategisches& Businessmanagement
+Ihre Antwort:Führung, strategisches und Business-Management, technisches Management
+Bewertete Antwort: Führung  strategisches und Business-Management  technisches Management
+Punkte: 2/3
+Frage: (SA) 36) Wie wird der Führungsstil genannt, bei dem die Führungskraft auf Belohnungen und Strafen zurückgreift ist, um eine optimale Arbeitsleistung von ihren Untergebenen zu erreichen? Max. zwei Wörter! [2]
+Korrekte Anwort:Transaktionsbezogene Führung
+Ihre Antwort:Transaktionenorientierter Führungsstil
+Punkte: 0/2
+Frage: (SA) 37) Die Phasen eines Projekts können Prozessen zugeordnet werden, die in fünf logische Gruppen gegliedert werden. Wie heißt die letzte Phase? Max. ein Wort! [1]
+Korrekte Anwort:Abschluss/closing
+Ihre Antwort:Abschluss
+Punkte: 1/1
+Frage: (PM) 38) Die verschiedenen Prozesse der Projektphasen erfordern unterschiedliche Kenntnisse, je nachdem, was in diesen Phasen erreicht werden will. Im Projektmanagement wird dieses Wissen in zehn Management-Wissensgebiete aufgeteilt. Welche der folgenden Gebiete zählen zu diesen Wissensgebieten? [2]
+Korrekte Anwort:Kommunikationsmanagement;Beschaffungsmanagement
+Ihre Antwort:Kommunikationsmanagement; Beschaffungsmanagement
+Punkte: 2/2
+Frage: (PM) 39) Emotionale Intelligenz ist der Bereich der kognitiven Fähigkeiten, der sich auf zwischenmenschliches Verhalten bezieht. Emotionale Intelligenz ergibt sich aus fünf Schlüsselkompetenzen. Welche der folgenden Kompetenzen gehören nicht dazu? [2]
+Korrekte Anwort:Überzeugung;Vorausschau
+Ihre Antwort:Überzeugung; Vorausschau
+Punkte: 2/2
+Frage: (PM) 40) Macht ist die Fähigkeit, andere zu beeinflussen. Macht kann positiv oder negativ sein. Was sind Instanzen dieser Art von Macht? [2]
+Korrekte Anwort:Macht durch Identifikation;Expertenmacht
+Ihre Antwort:Macht durch Identifikation; Expertenmacht
+Punkte: 2/2
+Frage: (PO) 41) Datengewinnung. Welches Instrument wird verwendet, um die öffentliche Reaktion auf eine Vielzahl von Themen zu testen, einschließlich Marketing, Forschung, Produkte, Dienstleistungen, Unterhaltung und Politik? [1]
+Korrekte Anwort:Fokusgruppen
+Ihre Antwort:Fokusgruppen
+Punkte: 1/1
+Frage: (PM) 42) Was gehört zu den Aufgaben eines PMO? [2]
+Korrekte Anwort:In einigen Fällen kann es die Kontrolle über Projekte übernehmen und diese direkt verwalten.;Es unterstützt die gemeinsame Nutzung von Ressourcen, Methodiken, Werkzeugen und Techniken.
+Ihre Antwort:In einigen Fällen kann es die Kontrolle über Projekte übernehmen und diese direkt verwalten.; Es unterstützt die gemeinsame Nutzung von Ressourcen, Methodiken, Werkzeugen und Techniken.
+Punkte: 2/2
+Frage: (PO) 43) Bei welchem Lebenszyklus werden Umfang und Inhalt des Projekts, Zeit und Kosten zu Beginn des Lebenszyklus festgelegt? [1]
+Korrekte Anwort:Prognostizierter Lebenszyklus
+Ihre Antwort:Prognostizierter Lebenszyklus
+Punkte: 1/1
+Frage: (SA) 44) Das Projektmanagementdreieck (auch „eisernes Dreieck“ genannt) ist eine grafische Metapher, um die die wichtigsten Größen im Projektmanagement zu zeigen. Welche Größen beinhaltet das eiserne Dreieck? Max. vier Wörter! [4]
+Korrekte Anwort:Kosten, Umfang/Inhalt, Qualität, Zeitplan/Terminplan
+Ihre Antwort:Umfang, Zeitplan, Kosten, Qualität
+Bewertete Antwort: Umfang  Zeitplan  Kosten  Qualität
+Punkte: 4/4
+Frage: (PM) 45) Was ist korrekt in Bezug auf die im Bild dargestellte Situation? [2]
+Korrekte Anwort:Das Projekt startete später als ursprünglich geplant.;In diesem Plan wurde Beschleunigung angewandt.
+Ihre Antwort:Das Projekt startete später als ursprünglich geplant.; In diesem Plan wurde Beschleunigung angewandt.
+Punkte: 2/2
+Frage: (PM) 46) Was bedeuten die Einträge im der dargestellten Tabelle? [2]
+Korrekte Anwort:Programmierer 2 arbeitet ab 14.2. halbtags;Programmierer 2 arbeitet bis 14.2. in einem anderen Projekt.
+Ihre Antwort:Programmierer 2 arbeitet ab 14.2. halbtags; Programmierer 2 wird ab 14.2. der Aufgabe 1 zu 50% zugeordnet.
+Punkte: 0/2
+Frage: (PM) 47) Was ist korrekt in Bezug auf die dargestellte Situation? [2]
+Korrekte Anwort:Die blaue Aufgabe liegt nicht auf dem kritischen Pfad;Alle Aufgaben außer der blauen Aufgabe liegen auf dem kritischen Pfad
+Ihre Antwort:Die blaue Aufgabe liegt nicht auf dem kritischen Pfad; Alle Aufgaben außer der blauen Aufgabe liegen auf dem kritischen Pfad
+Punkte: 2/2

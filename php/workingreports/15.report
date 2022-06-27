@@ -1,0 +1,197 @@
+Enrollment number: 15
+Question: (SA) 1) The project budget of a ten-months project is 1,000,000€ (BAC, budget at completion). It has been estimated that exactly 10 percent of work is going to be completed each month! After five months the work completed represents 40 percent of the whole work to be completed. What is the earned value at this time? [1]
+Correct Answer:400000€
+Your response:0,00004
+Evaluated response: 0 00004
+Points:0/1
+Question: (SA) 2) The project budget of a tweleve-months project is 1,200,000€ (BAC, budget at completion). Project costs equally distribute over the entire project duration. After six months the work completed represents 60 percent of the whole work to be completed. At this time 400,000€ have been spent on project. Calculate the cost performance index (CPI) [2]
+Correct Answer:1.5
+Your response:0,00015 for first 6 and 0,00005
+Evaluated response: 0 00015 for first 6 and 0 00005
+Points:0/2
+Question: (SA) 3) The PMO database provides the following cost estimates for a particular activity: optimistic: 100€, quite likely: 250€, pessimistic: 400€. Which estimated costs provides parametric estimating, when the beta distribution is applied? [2]
+Correct Answer:250€
+Your response:250, 125
+Evaluated response: 250  125
+Points:0/2
+Question: (PM) 4) Which statements are not correct about the Critical Path? [2]
+Correct Answer:The Critical Path indicates  the maximum project duration.;The free float of a single activity on the Critical Path may be greater than zero.
+Your response:The Critical Path indicates  the minimum project duration.; It is possible that a project has more than one Critical Path.
+Points:0/2
+Question: (SA) 5) Between two project phases, the project team evaluates the progress and decides on continuing or terminating of the project. How is the point between two phases usually called? Max. two words! [1]
+Correct Answer:Phase gate/kill point/stage gate
+Your response:pmo presentation
+Evaluated response: emo presentation
+Points:0/1
+Question: (SA) 6) How is a lifecycle called when during each cycle new funcionalities are added to the product? Max. two words! [1]
+Correct Answer:Incremental
+Your response:rigid
+Points:0/1
+Question: (PO) 7) How is an organizational context called in which the project manager has very high authority and manages the project budget? [1]
+Correct Answer:None of the qualities mentioned here
+Your response:None of the qualities mentioned here
+Points:1/1
+Question: (PO) 8) Return on captial and market share are … [1]
+Correct Answer:Key result indicators
+Your response:Key result indicators
+Points:1/1
+Question: (SA) 9) How is an information gathering method called that consolidates ideas created through individual brainstorming sessions into a single picture to reflect commonality and differences in understanding and to generate new ideas? Max. three words! [2]
+Correct Answer:mind mapping
+Your response:mind-mapping
+Points:0/2
+Question: (SA) 10) What is a project (definition)? Max. one phrase! [4]
+Correct Answer:Temporary endeavor to create a unique product, service, or result.
+Your response:project is the things that is changing the world, it is algorythm that made by humanbeings in amount of time
+Evaluated response: project is the things that is changing the world  it is algorithm that made by humanising in amount of time
+Points:0/4
+Question: (SA) 11) What is a risk (brief definition)? Max. one phrase! [4]
+Correct Answer:Uncertain event or condition with positive or negative impact on project objectives 
+Your response:risk is the point when something can fail, so u need to prevent this or expect
+Evaluated response: risk is the point when something can fail  so u need to prevent this or expect
+Points:0/4
+Question: (PO) 12) How is the degree of uncertainty usually called a company is ready to take on in anticipation of a reward? [1]
+Correct Answer:Risk appetite
+Your response:Risk tolerance
+Points:0/1
+Question: (PO) 13) Which scope defines the features and functions of the end result of the project which can be a product or service? [1]
+Correct Answer:Product scope
+Your response:Requirements scope
+Points:0/1
+Question: (SA) 14) What is a requirement? Give a brief definition. Max. one phrase! [4]
+Correct Answer:Condition or capability that is required to be present in a product, service, or result to satisfy a particular need. 
+Your response:expected result from project which included size design functionality and etc
+Points:0.8/4
+Question: (PM) 15) What shows this table? [2]
+Correct Answer:Requirements linked to deliverables;Requirements linked to stakeholder needs
+Your response:Requiremens linked to risks; Requirements linked to stakeholder needs
+Points:0/2
+Question: (SA) 16) What kind of planning is described here: It may start with a high-level vision for the overall project that is further detailed in subsequent iterations. Work to be accomplished in the near term is planned in detail, while work in the future is planned at a higher level. Max. three words! [2]
+Correct Answer:Rolling Wave
+Your response:requirements planning
+Points:0/2
+Question: (SA) 17) How is it called when developers add polish or features that weren’t asked for, with the intention of adding value and impressing the client? [2]
+Correct Answer:Gold plating
+Your response:non-logical technique
+Points:0/2
+Question: (PM) 18) What includes the project scope statement? [2]
+Correct Answer:Information on what is not included in the project.;Guidelines for making decisions about change requests
+Your response:Information on how to manage stakeholder interests; Guidelines for making decisions about change requests; Detailled presentation of all work packages
+Points:0/2
+Question: (PM) 19) What is a control account? [2]
+Correct Answer:Summary of planning packages;Management control point
+Your response:Summary of work packages; List of rated milestones
+Points:0/2
+Question: (PM) 20) What is correct about validation? [2]
+Correct Answer:Validated deliverables provide what has been expected by the customers or stakeholders.
+Your response:Validated deliverables are deliverables that have been checked and confirmed for correctness through the Control Quality process. ; Validated deliverables provide what has been expected by the customers or stakeholders.
+Points:0/2
+Question: (SA) 21) How is a technique called that is used for constructing a schedule model in which tasks are represented by nodes and are graphically linked by one or more logical relationships to show the sequence in which the tasks are performed? Max. three words! [3]
+Correct Answer:precedence diagramming method/PDM
+Your response:design structuring process
+Points:0/3
+Question: (PO) 22) There is always an underlying reason for a dependency between two activities in a schedule model. Which dependencies are also called soft logic? [1]
+Correct Answer:Discretionary dependencies
+Your response:Mandatory dependencies
+Points:0/1
+Question: (SA) 23) How is the total time called a single activity can be delayed without delaying the early start of any successor activities? [2]
+Correct Answer:Free float
+Your response:mind-mapping
+Points:0/2
+Question: (PO) 24) What kind of schedule compression technique is shown in the picture? [1]
+Correct Answer:Fast tracking
+Your response:Fast tracking
+Points:1/1
+Question: (PM) 25) What indicates an SPI value less than 1.0? [2]
+Correct Answer:Less work has been competed than indicated by the schedule baseline;The schedule variance is negative.
+Your response:More work has been competed than indicated by the schedule baseline; The project will finish ahead the planned completion date.
+Points:0/2
+Question: (PM) 26) The TCPI value is greater than 1.0. What does this mean? [2]
+Correct Answer:The project will quite likely not stay within the authorized budget.;It's quite likely that the BAC is no longer viable.
+Your response:The project needs to increase its performance in order to achieve the desired quality level.; The project will quite likely not stay within the authorized budget.
+Points:0/2
+Question: (SA) 27) In the context of risk analysis, the sensitivity analysis helps to determine what? Max. one phrase! [4]
+Correct Answer:Which project risks have the most potential impact on project outcomes.
+Your response:helps to define amount of the risk
+Points:0.444/4
+Question: (PM) 28) For dealing with threats, there are commonly several strategies that can be considered. Which of the following are not suitable strategies? [2]
+Correct Answer:Smoothing;Delegate
+Your response:Smoothing; Accept
+Points:0/2
+Question: (SA) 29) What means WBS? Max. three words! [3]
+Correct Answer:Work breakdown structure
+Your response:work breakdown structure
+Points:3/3
+Question: (PO) 30) How is numbering system called for the unique identification of each component of the work breakdown structure (WBS) [1]
+Correct Answer:Code of account
+Your response:WBS dictionary
+Points:0/1
+Question: (SA) 31) What is a change request? Explain it in a couple of words! Max. ten words! [5]
+Correct Answer:Formal proposal to modify a document, deliverable, or baseline. 
+Your response:when the owners changes requirements
+Points:0.833/5
+Question: (SA) 32) Which planning and modeling technique is used to yield various projections for some outcome based on selectively changing inputs? Max. two words! [2]
+Correct Answer:Alternative analysis
+Your response:risk tolerance
+Points:0/2
+Question: (SA) 33) Which planning and modeling technique is used to forecast future performance based on past results? Max. two words! [2]
+Correct Answer:Trend analysis
+Your response:predictive cycle
+Points:0/2
+Question: (SA) 34) Design thinking is an iterative approach to come to a decision that intentionally seeks out people with different perspectives, knowledge, skills and experience and has them work together to create a practical solution for a real-world problem. Name the five iterative phases of design thinking in the right order. [5]
+Correct Answer:Empathize - Define - Ideate - Prototype - Test
+Your response:plan start brainstorm presentation test
+Points:1/5
+Question: (SA) 35) The project manager is the person assigned by the performing organization to lead the team that is responsible for achieving the project objectives. Name the three main skill sets a project manager should cover. [3]
+Correct Answer:Technical management, Leadership, Strategic& business management
+Your response:leadership needs to be positive, and teamup the others, expert
+Evaluated response: leadership needs to be positive  and teamfähig the others  expert
+Points:1/3
+Question: (SA) 36) Which leadership style is also known as managerial leadership and is a leadership style where the executive relies on rewards and punishments to achieve optimal job performance from his or her subordinates? Max. two words! [2]
+Correct Answer:Transactional leadership
+Your response:reward power
+Points:0/2
+Question: (SA) 37) The phases of a project constitute processes that can be grouped together into five logical groups. How is the last phase called? [1]
+Correct Answer:closing
+Your response:ending
+Points:0/1
+Question: (PM) 38) The different processes of the project phases may require different knowledge depending on the things that need to be accomplished in these phases. In project management, this knowledge is separated along ten management knowledge areas. Which of the following are valid knowledge areas? [2]
+Correct Answer:Communication management;Procurement management
+Your response:Change management; Requirement management
+Points:0/2
+Question: (PM) 39) Emotional intelligence is the area of cognitive ability that facilitates interpersonal behavior. EI emerges from five key factors. Which of the following are not among these key factors? [2]
+Correct Answer:Persuasion;Foresight
+Your response:Empathy; Persuasion; Foresight
+Points:1/2
+Question: (PM) 40) Power is the ability to influence others. Power can be a positive manner or a negative one. Which of the following are instances of this concept of power? [2]
+Correct Answer:Referent power;Expert power
+Your response:Reward power; Referent power
+Points:0/2
+Question: (PO) 41) Data and information gathering. Which instrument is used to test the public response to a wide variety of subjects, including marketing, research, products, services, entertainment, propaganda and policies? [1]
+Correct Answer:Focus groups
+Your response:Focus groups
+Points:1/1
+Question: (PM) 42) What are the responsibilities of the PMO? [2]
+Correct Answer:In some cases, it may take control of projects and manage them directly.;It supports the sharing of resources, methodologies, tools, and techniques among projects.
+Your response:In some cases, it may take control of projects and manage them directly.; It coaches conflict resolution in projects.
+Points:0/2
+Question: (PO) 43) Which lifecycle defines the bulk of planning occurring upfront, then executing in sequential processes, where the sequence of all phases are well defined at the beginning of the project? [1]
+Correct Answer:Predictive lifecycle
+Your response:Defined lifecycle
+Points:0/1
+Question: (SA) 44) The Project Management Triangle (or Iron Triangle) is a graphic metaphor to show the forces of the major constraints in project management. Name the four elements of the Iron Triangle. Max. four words!  [4]
+Correct Answer:quality, scope, cost, schedule
+Your response:quality, schedule, shape, cost
+Evaluated response: quality  schedule  shape  cost
+Points:3/4
+Question: (PM) 45) What is correct about the situation depicted in the picture? [2]
+Correct Answer:The project started later than originally planned.;Fast tracking has been applied in this schedule.
+Your response:The project started later than originally planned.; Fast tracking has been applied in this schedule.
+Points:2/2
+Question: (PM) 46) What express the entries in the depicted table? [2]
+Correct Answer:Programmer 1 works half-day from Feb. 14 on;Programmer 1 works in a different project until Feb. 14.
+Your response:Programmer 1 works in a different project until Feb. 14.; Programmer 1 is assigned to 50% of task 1 from Feb. 14 on.
+Points:0/2
+Question: (PM) 47) What is correct concerning the depicted situation? [2]
+Correct Answer:The blue task is not part of the Critical Path;All tasks except the blue one are part of the Critical Path
+Your response:The blue task is not part of the Critical Path; All tasks except the blue one are part of the Critical Path
+Points:2/2
